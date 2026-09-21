@@ -41,7 +41,7 @@
  * - During adjustment: use working copy, save only on completion
  * - Counters (pomodoroCount, longBreakCount) are RAM-only
  */
-
+// #include <Arduino.h> // uncomment when not using the Arduino IDE (PlatformIO)
 #include <EEPROM.h>
 #include <Servo.h>
 #include <TM1637Display.h>
