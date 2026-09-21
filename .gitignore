@@ -1,4 +1,4 @@
-node_modules/
+Nothing needs to be added to .gitignore since the only change is adding a single Arduino source file (.ino) which is source code and should not be ignored.node_modules/
 .next/
 dist/
 build/
